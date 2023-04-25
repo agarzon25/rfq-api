@@ -31,7 +31,7 @@ components:
       type: object
       properties:
         id:
-          type: integer
+          type: string
           format: uuid
         product:
           type: string
