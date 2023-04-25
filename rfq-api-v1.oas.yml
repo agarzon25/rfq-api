@@ -15,7 +15,7 @@ paths:
       tags:
        - Quote
       description: Create a quote
-      operationid: createQuote
+      operationId: createQuote
       requestBody:
         content:
           application/json:
